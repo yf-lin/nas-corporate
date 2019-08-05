@@ -27,3 +27,10 @@
     url: /discover-archives/sub-page-C/
   - title: Sub Page D
     url: /discover-archives/sub-page-D/
+- title: Archives Reading Room
+  url: /discover-archives/sub-page-C/
+  sub-links:
+  - title: Sub Page C
+    url: /discover-archives/sub-page-C/
+  - title: Sub Page D
+    url: /discover-archives/sub-page-D/
