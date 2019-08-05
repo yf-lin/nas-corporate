@@ -4,13 +4,6 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
-- title: About Us
-  url: /about-us/sub-page-A/
-  sub-links:
-  - title: Sub Page A
-    url: /about-us/sub-page-A/
   - title: 
     url: /about-us//
 - title: About Us
@@ -21,6 +14,27 @@
   - title: Sub Page B
     url: /about-us/sub-page-B/
 - title: Discover Archives
+  url: /discover-archives/sub-page-C/
+  sub-links:
+  - title: Sub Page C
+    url: /discover-archives/sub-page-C/
+  - title: Sub Page D
+    url: /discover-archives/sub-page-D/
+title: Archives Reading Room
+  url: /discover-archives/sub-page-C/
+  sub-links:
+  - title: Sub Page C
+    url: /discover-archives/sub-page-C/
+  - title: Sub Page D
+    url: /discover-archives/sub-page-D/
+title: Conservation & Preservation
+  url: /discover-archives/sub-page-C/
+  sub-links:
+  - title: Sub Page C
+    url: /discover-archives/sub-page-C/
+  - title: Sub Page D
+    url: /discover-archives/sub-page-D/
+  title: Outreach
   url: /discover-archives/sub-page-C/
   sub-links:
   - title: Sub Page C
