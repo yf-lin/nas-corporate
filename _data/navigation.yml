@@ -4,23 +4,26 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
 - title: About Us
-  url: /about-us/sub-page-A/
+  url: /about-us/
   sub-links:
   - title: Sub Page A
     url: /about-us/sub-page-A/
   - title: 
     url: /about-us//
-- title: About Us
+- title: Discover Archives
+  url: /discover-archives/sub-page-A/
+  sub-links:
+  - title: Sub Page A
+    url: /discover-archives/sub-page-A/
+- title: Archives Reading Room
   url: /about-us/sub-page-A/
   sub-links:
   - title: Sub Page A
     url: /about-us/sub-page-A/
   - title: Sub Page B
     url: /about-us/sub-page-B/
-- title: Discover Archives
+- title: Conservation & Preservation
   url: /discover-archives/sub-page-C/
   sub-links:
   - title: Sub Page C
