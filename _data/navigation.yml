@@ -4,16 +4,16 @@
 #                                #
 ##################################
 
-- title: Contact Us
-  url: /contact-us/
 - title: About Us
+  url: /contact-us/
+- title: Discover Archives
   url: /about-us/sub-page-A/
   sub-links:
   - title: Sub Page A
     url: /about-us/sub-page-A/
   - title: 
     url: /about-us//
-- title: About Us
+- title: Archives Reading Room
   url: /about-us/sub-page-A/
   sub-links:
   - title: Sub Page A
